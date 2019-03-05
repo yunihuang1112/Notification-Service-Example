@@ -1,4 +1,4 @@
-# NotiService-ex
+# Notification Service Example
 
 This is a example for **Rich Push Notification** in iOS 10*.
 Only **Notification Service Extension**.  
